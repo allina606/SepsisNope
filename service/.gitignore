@@ -3,3 +3,10 @@
 /lib
 
 .Python
+
+yarn.lock
+
+/medhacksenv1
+/nedhacksenv1
+
+app.pyc
