@@ -12,7 +12,7 @@ yarn start
 
 You can now go to localhost:3000 to see that the UI is up and running. But it won’t interact with the Flask service which is still not up.
 
-To start flask: 
+To start flask go to the second terminal and input: 
 ```
 pip install virtualenv 
 ```
